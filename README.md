@@ -1,6 +1,6 @@
 # GHFollowers
 
-Приложение GHFollowers с использованием MVC, без Storyboard и frameworks.
+GHFollowers application using MVC, without Storyboard and frameworks.
 
 
 <img width="319" alt="Снимок экрана 2022-05-24 в 11 07 17" src="https://user-images.githubusercontent.com/105271727/169981868-7cb19e72-edf1-43fa-add3-d0a4aee50467.png">
